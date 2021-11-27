@@ -1,4 +1,4 @@
-package com.viniciuss.citiesapi.repository;
+package com.viniciuss.citiesapi.countries.repository;
 
 import com.viniciuss.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
