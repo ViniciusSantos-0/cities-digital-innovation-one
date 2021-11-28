@@ -1,8 +1,9 @@
-package com.viniciuss.citiesapi.states;
+package com.viniciuss.citiesapi.states.resources;
 
 import java.util.List;
 
-import com.viniciuss.citiesapi.states.repository.StateRepository;
+import com.viniciuss.citiesapi.states.entities.State;
+import com.viniciuss.citiesapi.states.repositories.StateRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

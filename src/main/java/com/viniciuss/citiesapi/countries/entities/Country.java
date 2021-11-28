@@ -1,4 +1,4 @@
-package com.viniciuss.citiesapi.countries;
+package com.viniciuss.citiesapi.countries.entities;
 
 import jdk.internal.vm.annotation.Stable;
 

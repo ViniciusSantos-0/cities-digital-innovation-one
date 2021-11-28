@@ -1,7 +1,7 @@
-package com.viniciuss.citiesapi.countries;
+package com.viniciuss.citiesapi.countries.resources;
 
-import com.viniciuss.citiesapi.countries.Country;
-import com.viniciuss.citiesapi.countries.repository.CountryRepository;
+import com.viniciuss.citiesapi.countries.entities.Country;
+import com.viniciuss.citiesapi.countries.repositories.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,4 +1,4 @@
-package com.viniciuss.citiesapi.states;
+package com.viniciuss.citiesapi.states.entities;
 
 import java.util.List;
 import javax.persistence.Basic;
@@ -10,7 +10,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-import com.viniciuss.citiesapi.countries.Country;
+import com.viniciuss.citiesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
