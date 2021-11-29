@@ -1,6 +1,5 @@
 package com.viniciuss.citiesapi.countries.entities;
 
-import jdk.internal.vm.annotation.Stable;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
